@@ -1,1 +1,3 @@
-# Product-Out_Of_Stock-Prediction
+Product-Out-of-Stock-problem-in-the e-Commerce-industry
+
+Training dataset -
