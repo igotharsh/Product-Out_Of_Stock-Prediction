@@ -5,4 +5,4 @@ Problem statement - To tackle the problem of maintaining stocks in supply chain 
 
 Model used - The training set being an imbalanced dataset wrt to the target variable, the method of synthetic minority oversampling technique was applied so that those 0.25% of products which were getting backorders can be predicted.
 
-Result obtained - AUC of 0.87 was acheived on the test set.
+
